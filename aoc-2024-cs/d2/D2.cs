@@ -1,6 +1,6 @@
 using aoc_2024_cs.utils;
 
-namespace aoc_2024_cs.d1;
+namespace aoc_2024_cs.d2;
 
 public static class D2
 {
